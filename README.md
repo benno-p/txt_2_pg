@@ -1,5 +1,8 @@
 # txt_2_pg
+_python_  
 Made for upload txt files or geojson quickly in a postgresql DB  
+  
+try directly the *.exe : ![here](https://github.com/benno-p/txt_2_pg/blob/master/dist/txt_2_pg.exe)  
   
 With this freeware you can easily load many *.txt file in a postgrsql db with a beautifull interface ;) :  
 ![txt_2_pg](https://github.com/benno-p/txt_2_pg/blob/master/capture_txt_2_pg.png)
