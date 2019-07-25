@@ -8,7 +8,7 @@ With this freeware you can easily load many *.txt file in a postgrsql db with a 
 ![txt_2_pg](https://github.com/benno-p/txt_2_pg/blob/master/capture_txt_2_pg.png)
   
 Your connections strings (user, port, dbname, password,schema ...) are store in a sqlite db in the user current repository  
-_ex : C:/username/desktop/.txt_2_pg_  
+_ex : C:/username/.txt_2_pg_  
 
 For txt files :  
  - select the directory that contain txt files
